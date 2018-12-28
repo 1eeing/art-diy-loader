@@ -1,0 +1,31 @@
+{
+  "name": "art-diy-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1eeing/art-diy-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1eeing/art-diy-loader/issues"
+  },
+  "homepage": "https://github.com/1eeing/art-diy-loader#readme",
+  "peerDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "js-beautify": "^1.8.8"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "cheerio": "^1.0.0-rc.2",
+    "jest": "^23.6.0",
+    "js-beautify": "^1.8.8",
+    "memory-fs": "^0.4.1",
+    "webpack": "^4.27.1"
+  }
+}
